@@ -156,24 +156,20 @@ Mon premier projet data complet, construit de zéro :
 
 | Période | Rôle | Entreprise |
 |---------|------|------------|
-| Sept. 2025 - Présent | Technicienne Gestion Tarifaire – Comptabilisation Contrats Tripartites | Veolia (Île-de-France) |
+| Sept. 2025 - Présent | Technicienne Gestion Tarifaire – Comptabilisation Contrats Tripartites | VEOLIA |
 | Sept. 2024 - Sept. 2025 | Assistante Polyvalente – Comptabilité & Gestion Administrative | JLL |
 | Août 2022 - Sept. 2024 | Assistante Comptabilité & Contrôle de Gestion  | TMA |
 | Juin 2020 - Juin 2021 | Assistante Commerciale | Foncia |
 | Sept. 2018 - Juin 2020 | Assistante Responsable Gestion Patrimoine | LOGIREP |
 
-| Mastère Management, Data & IA   Candidature en cours / Rentrée sept. 2026
-EFREI Paris — École des Ingénieurs et Experts du Numérique  -  Villejuif (94800)
-Spécialisation Big Data, Machine Learning, IA appliquée, Data Engineering
-| Bachelor Chef de Projet Digital – UX/UI   En cours 
-Digital Campus  —  Paris (75011)
-Conception UX/UI, gestion de projet digital, design system, méthodologies Agile
-| Bac+2 Web Designer / Graphisme Multimédia
-Digital Campus  -  Paris (75011)
-Conception graphique, identité visuelle, intégration web (HTML/CSS), ergonomie, print & digital, motion design
-| Bac+2 Professions Immobilières
-ISCG Paris  -  Paris (75012)
-Transaction immobilière, gestion locative, droit immobilier, copropriété, financement
+## 🎓 Formation
+
+| Diplôme | École | Lieu | Statut |
+|---------|-------|------|--------|
+| **Mastère Management, Data & IA** — Big Data, ML, IA appliquée, Data Engineering | EFREI Paris | Villejuif (94800) | 🔄 Candidature en cours — Sept. 2026 |
+| **Bachelor Chef de Projet Digital — UX/UI** — Conception UX/UI, gestion de projet, design system, Agile | Digital Campus | Paris (75011) |
+| **Bac+2 Web Designer / Graphisme Multimédia** — Conception graphique, identité visuelle, HTML/CSS, motion design | Digital Campus | Paris (75011) | 
+| **Bac+2 Professions Immobilières** — Transaction, gestion locative, droit immobilier, copropriété | ISCG Paris | Paris (75012) |
 
 ---
 
