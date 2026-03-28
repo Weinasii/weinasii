@@ -18,6 +18,7 @@
 Forte d'un parcours professionnel diversifié au sein d'environnements exigeants, j'ai développé une compréhension fine des enjeux opérationnels et des besoins utilisateurs.
 
 Aujourd'hui, je fais converger cette expérience métier avec une spécialisation en Data et IA. 
+
 Mon ambition : devenir Data Product Designer. Je crée le pont entre l’ingénierie, l’analyse et l’expérience utilisateur. 
 
 Je suis convaincue que la donnée sans UX est sous-exploitée, tandis que l’UX sans data ne repose que sur l’intuition. Mon objectif est de transformer la complexité technique en produits intuitifs, actionnables et générateurs de valeur métier. »
