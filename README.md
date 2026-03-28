@@ -77,7 +77,21 @@ Mon premier projet data complet, construit de zéro :
 🗄️ SQL               ███████░░░   Bases solides
 🤖 Machine Learning  ████░░░░░░   Premiers pas
 📊 Power BI          ██████░░░░   Bases solides
+
 ```
+### 🎓 Certifications en préparation
+
+![Google](https://img.shields.io/badge/Google_Data_Analytics_Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft_PL--300_Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_Certified_Data_Engineer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+Data & Analyse : Python (analyse, automatisation de données), SQL (requêtes, bases de données relationnelles), Power BI, Looker Studio, Google Analytics, Excel (TCD, formules, tableaux de bord), A/B Testing, KPI, Data Viz, heatmaps, tracking comportemental, benchmarking
+UX/UI & Design : Figma, Adobe XD, Framer, Sketch, InVision, FigJam, Maze (tests utilisateurs), Webflow (no-code), Design Thinking, wireframing, zoning, prototypage haute fidélité, user flows, personas, parcours utilisateurs, design system, identité visuelle, motion design, accessibilité WCAG/W3C
+Développement & CMS : HTML, CSS, JavaScript, Git/GitHub, WordPress, Webflow, notions PHP, API REST, Visual Studio Code, responsive design, intégration web, notions SEO technique
+Gestion de Projet & Produit : Agile (Scrum, Kanban), Cycle en V, Waterfall, SAFe (débutant), maîtrise des méthodologies hybrides et adaptation selon le contexte projet. Sprints, rituels Agile, gestion de backlog, roadmap produit, user stories, Jira, Trello, Notion, Asana, Confluence, MS Project, Miro
+Création & Multimédia : Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, Blender, Unity
+Bureautique : Pack Office (Word, Excel avancé, PowerPoint), Google Workspace
 
 ---
 
