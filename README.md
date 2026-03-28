@@ -2,7 +2,7 @@
 
 # Bonjour, moi c'est Ynes 👋
 
-### UX/UI Designer · Data Analyst en devenir · SIRH & RH Data
+### UX/UI Designer · Data Analyst en devenir · 
 
 *Je transforme les données en décisions et les interfaces en expériences.*
 
