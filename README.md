@@ -159,7 +159,7 @@ Mon premier projet data complet, construit de zéro :
 | Sept. 2025 - Présent | Technicienne Gestion Tarifaire – Comptabilisation Contrats Tripartites | VEOLIA |
 | Sept. 2024 - Sept. 2025 | Assistante Polyvalente – Comptabilité & Gestion Administrative | JLL |
 | Août 2022 - Sept. 2024 | Assistante Comptabilité & Contrôle de Gestion  | TMA |
-| Juin 2020 - Juin 2021 | Assistante Commerciale | Foncia |
+| Juin 2020 - Juin 2021 | Assistante Commerciale | FONCIA |
 | Sept. 2018 - Juin 2020 | Assistante Responsable Gestion Patrimoine | LOGIREP |
 
 ## 🎓 Formation
