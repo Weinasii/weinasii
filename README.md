@@ -164,12 +164,12 @@ Mon premier projet data complet, construit de zéro :
 
 ## 🎓 Formation
 
-| Diplôme | École | Lieu | Statut |
-|---------|-------|------|--------|
-| **Mastère Management, Data & IA** — Big Data, ML, IA appliquée, Data Engineering | EFREI Paris | Villejuif (94800) | 🔄 Candidature en cours — Sept. 2026 |
-| **Bachelor Chef de Projet Digital — UX/UI** — Conception UX/UI, gestion de projet, design system, Agile | Digital Campus | Paris (75011) |
-| **Bac+2 Web Designer / Graphisme Multimédia** — Conception graphique, identité visuelle, HTML/CSS, motion design | Digital Campus | Paris (75011) | 
-| **Bac+2 Professions Immobilières** — Transaction, gestion locative, droit immobilier, copropriété | ISCG Paris | Paris (75012) |
+| Diplôme | École | Lieu | 
+|---------|-------|------|
+| **Mastère Management, Data & IA** - Big Data, ML, IA appliquée, Data Engineering | EFREI Paris | Villejuif (94800)|
+| **Bachelor Chef de Projet Digital - UX/UI** : Conception UX/UI, gestion de projet, design system, Agile | Digital Campus | Paris (75011) |
+| **Bac+2 Web Designer / Graphisme Multimédia** : Conception graphique, identité visuelle, HTML/CSS, motion design | Digital Campus | Paris (75011) | 
+| **Bac+2 Professions Immobilières** : Transaction, gestion locative, droit immobilier, copropriété | ISCG Paris | Paris (75012) |
 
 ---
 
