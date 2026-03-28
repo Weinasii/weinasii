@@ -15,7 +15,7 @@
 
 ## 🧠 Qui suis-je ?
 
-Professionnelle avec un parcours atypique et assumé — j'ai passé plusieurs années dans des environnements **RH, SIRH et gestion immobilière** (Veolia, Foncia, Logirep, JLL), et je me forme aujourd'hui à la **Data et à l'IA** pour combiner ces deux mondes.
+Professionnelle avec un parcours atypique et assumé j'ai passé plusieurs années dans des environnements **RH, SIRH et gestion immobilière** (Veolia, Foncia, Logirep, JLL), et je me forme aujourd'hui à la **Data et à l'IA** pour combiner ces deux mondes.
 
 Mon positionnement : **comprendre les enjeux métier ET savoir les traduire en données exploitables.**
 
@@ -91,7 +91,7 @@ Mon premier projet data complet, construit de zéro :
 
 Je prépare une **candidature en alternance Master Big Data & IA** pour septembre 2026.
 
-Mon ambition : devenir **Data Product Designer** — le profil qui fait le pont entre la data engineering, l'analyse et l'expérience utilisateur. Parce que la data sans UX, c'est du gâchis. Et l'UX sans data, c'est de l'intuition.
+Mon ambition : devenir **Data Product Designer** le profil qui fait le pont entre la data engineering, l'analyse et l'expérience utilisateur. Parce que la data sans UX, c'est du gâchis. Et l'UX sans data, c'est de l'intuition.
 
 ---
 
