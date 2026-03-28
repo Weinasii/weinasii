@@ -87,12 +87,68 @@ Mon premier projet data complet, construit de zéro :
 ![AWS](https://img.shields.io/badge/AWS_Certified_Data_Engineer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
-Data & Analyse : Python (analyse, automatisation de données), SQL (requêtes, bases de données relationnelles), Power BI, Looker Studio, Google Analytics, Excel (TCD, formules, tableaux de bord), A/B Testing, KPI, Data Viz, heatmaps, tracking comportemental, benchmarking
-UX/UI & Design : Figma, Adobe XD, Framer, Sketch, InVision, FigJam, Maze (tests utilisateurs), Webflow (no-code), Design Thinking, wireframing, zoning, prototypage haute fidélité, user flows, personas, parcours utilisateurs, design system, identité visuelle, motion design, accessibilité WCAG/W3C
-Développement & CMS : HTML, CSS, JavaScript, Git/GitHub, WordPress, Webflow, notions PHP, API REST, Visual Studio Code, responsive design, intégration web, notions SEO technique
-Gestion de Projet & Produit : Agile (Scrum, Kanban), Cycle en V, Waterfall, SAFe (débutant), maîtrise des méthodologies hybrides et adaptation selon le contexte projet. Sprints, rituels Agile, gestion de backlog, roadmap produit, user stories, Jira, Trello, Notion, Asana, Confluence, MS Project, Miro
-Création & Multimédia : Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, Blender, Unity
-Bureautique : Pack Office (Word, Excel avancé, PowerPoint), Google Workspace
+## 🛠 Mes compétences
+
+**Data & Analyse**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Avancé-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=flat-square&logo=testinglibrary&logoColor=white)
+![Data Viz](https://img.shields.io/badge/Data_Viz-9B59B6?style=flat-square&logo=chartdotjs&logoColor=white)
+
+**UX/UI & Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+![InVision](https://img.shields.io/badge/InVision-FF3366?style=flat-square&logo=invision&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Maze](https://img.shields.io/badge/Maze-FF4F4F?style=flat-square&logo=maze&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![Design Thinking](https://img.shields.io/badge/Design_Thinking-00BCD4?style=flat-square&logoColor=white)
+
+**Développement & CMS**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Gestion de Projet & Produit**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=yellow)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logoColor=white)
+
+**Création & Multimédia**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+**Bureautique**
+
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
