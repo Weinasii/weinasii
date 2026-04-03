@@ -2,7 +2,7 @@
 
 # Bonjour, moi c'est Ynes 👋
 
-### UX/UI Designer · Data Analyst en devenir 
+### UX/UI Designer · Data Analyst 
 
 *Je transforme les données en décisions et les interfaces en expériences.*
 
