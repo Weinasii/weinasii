@@ -2,7 +2,7 @@
 
 # Bonjour, moi c'est Ynes 👋
 
-### UX/UI Designer · Data Analyst 
+### UX/UI Designer  
 
 *Je transforme les données en décisions et les interfaces en expériences.*
 
@@ -166,7 +166,7 @@ Mon premier projet data complet, construit de zéro :
 
 | Diplôme | École | Lieu | 
 |---------|-------|------|
-| **Mastère Management, Data & IA** - Big Data, ML, IA appliquée, Data Engineering | EFREI Paris | Villejuif (94800)|
+| **Mastère Management, Data & IA** - Product Design UX-UI intéractif | IIM Digital School | La Défense 92060.|
 | **Bachelor Chef de Projet Digital - UX/UI** : Conception UX/UI, gestion de projet, design system, Agile | Digital Campus | Paris (75011) |
 | **Bac+2 Web Designer / Graphisme Multimédia** : Conception graphique, identité visuelle, HTML/CSS, motion design | Digital Campus | Paris (75011) | 
 | **Bac+2 Professions Immobilières** : Transaction, gestion locative, droit immobilier, copropriété | ISCG Paris | Paris (75012) |
