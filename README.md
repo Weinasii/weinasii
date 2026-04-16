@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bonjour, moi c'est Ynes 👋
+# Bonjour, moi c'est Ynes !
 
 ### UX/UI Designer  
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Qui suis-je ?
+## Qui suis-je ?
 
 Forte d'un parcours professionnel diversifié au sein d'environnements exigeants, j'ai développé une compréhension fine des enjeux opérationnels et des besoins utilisateurs.
 
@@ -29,7 +29,7 @@ Ce que les autres appellent un parcours non-linéaire, j'appelle ça une **vue �
 
 ---
 
-## 🚀 Ce que je construis en ce moment
+## Ce que je construis en ce moment
 
 ### 📊 HR Analytics Pipeline
 > *Pipeline de données RH end-to-end - ETL · KPIs · Prédiction d'attrition · Dashboard*
@@ -41,11 +41,11 @@ Mon premier projet data complet, construit de zéro :
 - **Dashboard Streamlit** interactif avec filtres en temps réel
 - **Librairie SQL** de 10 requêtes analytiques PostgreSQL
 
-👉 [Voir le projet](https://github.com/Weinasii/hr-analytics-pipeline)
+[Voir le projet](https://github.com/Weinasii/hr-analytics-pipeline)
 
 ---
 
-## 🛠 Mes compétences
+##  Mes compétences
 
 **Data & Analyse**
 
@@ -71,7 +71,7 @@ Mon premier projet data complet, construit de zéro :
 
 ---
 
-## 📚 En cours d'apprentissage
+## En cours d'apprentissage
 
 ```
 🐍 Python            ████████░░   Intermédiaire
@@ -80,14 +80,14 @@ Mon premier projet data complet, construit de zéro :
 📊 Power BI          ██████░░░░   Bases solides
 
 ```
-### 🎓 Certifications en préparation
+### Certifications en préparation
 
 ![Google](https://img.shields.io/badge/Google_Data_Analytics_Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft_PL--300_Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS_Certified_Data_Engineer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
-## 🛠 Mes compétences
+## Mes compétences
 
 **Data & Analyse**
 
@@ -152,7 +152,7 @@ Mon premier projet data complet, construit de zéro :
 
 ---
 
-## 💼 Mon parcours en bref
+## Mon parcours en bref
 
 | Période | Rôle | Entreprise |
 |---------|------|------------|
@@ -162,7 +162,7 @@ Mon premier projet data complet, construit de zéro :
 | Juin 2020 - Juin 2021 | Assistante Commerciale | FONCIA |
 | Sept. 2018 - Juin 2020 | Assistante Responsable Gestion Patrimoine | LOGIREP |
 
-## 🎓 Formation
+## Formation
 
 | Diplôme | École | Lieu | 
 |---------|-------|------|
@@ -172,15 +172,15 @@ Mon premier projet data complet, construit de zéro :
 
 ---
 
-## 🎯 Mon objectif
+## Mon objectif
 
-Je prépare une **candidature en alternance Master Big Data & IA** pour septembre 2026.
+Je prépare une **candidature en alternance Master Product UX interactif** pour septembre 2026.
 
-Ambition : Data Product Designer. Mon rôle ? Créer le pont entre Data Engineering, Analyse et Expérience Utilisateur. Je suis convaincu que la donnée sans UX est une opportunité manquée, tandis que l'UX sans donnée n'est qu'une intuition. Mon objectif est de transformer la complexité technique en produits actionnables et centrés sur l'utilisateur.
+Ambition : Product Designer avec une spécialisation en Data & IA. Mon rôle ? Créer le pont entre Data Engineering, Analyse et Expérience Utilisateur. Je suis convaincu que la donnée sans UX est une opportunité manquée, tandis que l'UX sans donnée n'est qu'une intuition. Mon objectif est de transformer la complexité technique en produits actionnables et centrés sur l'utilisateur.
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
 Je suis ouverte aux échanges, aux opportunités d'alternance.
 
